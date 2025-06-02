@@ -1,0 +1,8 @@
+primer_numero = int(input("Ingrese el primer número: "))
+segundo_numero = int(input("Ingrese el segundo número: "))
+print("Seleccione una operación:")
+print("1. Sumar")
+print("2. Restar")
+print("3. Multiplicar")
+print("4. Dividir")
+operacion = input("Ingrese el número de la operación que desea realizar: ")
